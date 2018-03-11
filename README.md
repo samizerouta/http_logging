@@ -3,6 +3,8 @@ http_logging
 
 A [HTTP client](https://github.com/dart-lang/http) middleware which logs request and response data.
 
+[![Build Status](https://travis-ci.org/samizerouta/http_logging.svg?branch=master)](https://travis-ci.org/samizerouta/http_logging)
+
 ```dart
 import 'dart:async';
 
