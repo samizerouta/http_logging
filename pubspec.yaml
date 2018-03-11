@@ -1,0 +1,14 @@
+name: http_logging
+version: 0.1.0
+description: A HTTP client middleware which logs request and response data.
+author: Sami Zerouta <samizerouta@gmail.com>
+homepage: https://github.com/samizerouta/http_logging
+
+environment:
+  sdk: '>=1.24.0 <2.0.0'
+
+dependencies:
+  http: '^0.11.0'
+
+dev_dependencies:
+  test: '^0.12.32'
